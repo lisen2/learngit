@@ -4,4 +4,5 @@ Git has mutable index called stage
 git tracks changes of files
 i have a drream and a dog
 enjoy your life and don't cry
-i want to have a cat
+i want to have a cat and i was bothered by a question
+be done
