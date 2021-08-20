@@ -1,4 +1,4 @@
 hello,man
 i forgot to push,soory.
 but i have dealt with it
-a new branch for testing of tg
+a new branch conflict
